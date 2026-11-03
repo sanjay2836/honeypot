@@ -1,0 +1,7 @@
+# Runtime data - never commit
+__pycache__/
+.pytest_cache/
+*.db
+*.db.corrupt-*
+backups/
+spool/
